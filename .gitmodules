@@ -1,3 +1,12 @@
 [submodule "github.com/Homebrew/homebrew-core"]
 	path = github.com/Homebrew/homebrew-core
 	url = https://github.com/Homebrew/homebrew-core.git
+[submodule "github.com/go-gitea/gitea"]
+	path = github.com/go-gitea/gitea
+	url = https://github.com/go-gitea/gitea.git
+[submodule "github.com/flask-admin/flask-admin"]
+	path = github.com/flask-admin/flask-admin
+	url = https://github.com/flask-admin/flask-admin.git
+[submodule "github.com/rochacbruno/quokka"]
+	path = github.com/rochacbruno/quokka
+	url = https://github.com/rochacbruno/quokka.git
