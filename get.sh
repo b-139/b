@@ -1,4 +1,5 @@
-
+#!/usr/bin/env bash
+git submodule init
 git  submodule add  https://github.com/Homebrew/homebrew-core.git ./github.com/Homebrew/homebrew-core
 
 git submodule add https://github.com/go-gitea/gitea.git ./github.com/go-gitea/gitea
