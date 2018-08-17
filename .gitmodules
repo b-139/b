@@ -10,3 +10,9 @@
 [submodule "github.com/rochacbruno/quokka"]
 	path = github.com/rochacbruno/quokka
 	url = https://github.com/rochacbruno/quokka.git
+[submodule "github.com/miguelgrinberg/Flask-Migrate"]
+	path = github.com/miguelgrinberg/Flask-Migrate
+	url = https://github.com/miguelgrinberg/Flask-Migrate.git
+[submodule "src/b3838b/nanobox"]
+	path = src/b3838b/nanobox
+	url = https://github.com/b3838b/nanobox.git

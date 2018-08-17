@@ -2,9 +2,13 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bin/data/tmp/local-repo/1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bin/data/tmp/local-wiki/1" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/Homebrew/homebrew-core" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/flask-admin/flask-admin" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/go-gitea/gitea" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/miguelgrinberg/Flask-Migrate" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/rochacbruno/quokka" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/b3838b/nanobox" vcs="Git" />
   </component>
 </project>
